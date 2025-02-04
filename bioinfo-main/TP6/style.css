@@ -1,0 +1,29 @@
+body{
+	font-family: Arial;
+	background-color: #18A383;
+    box-sizing: border-box;
+}
+
+div{
+    width: 300px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    color: #999;
+    border-radius: 3px;
+    font-size: 0.8em;
+}
+
+.canvas-container{
+    width: 1300;
+}
+
+.field{
+    border: solid 1px #ccc;
+    padding: 10px;
+    width: 280px;
+}
+
+.field:focus{
+    border-color: #18A383;
+}

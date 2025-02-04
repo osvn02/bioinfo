@@ -1,0 +1,39 @@
+{
+    "1": {
+        "score": 2.67,
+        "debut": -240,
+        "fin": -201,
+        "nb_occurence": 2,
+        "occurences": [
+            {
+                "arn": "NM_001100",
+                "position": -231,
+                "score": 0.91
+            },
+            {
+                "arn": "NM_002469",
+                "position": -209,
+                "score": 4.42
+            } 
+        ] 
+    },     
+    "2": {
+        "score": 2.03,
+        "debut": -80,
+        "fin": -41,
+        "nb_occurence": 2,
+        "occurences": [
+            {
+                "arn": "NM_001100",
+                "position": -68,
+                "score": 1.22
+            },
+            {
+                "arn": "NM_002469",
+                "position": -50,
+                "score": 2.84
+            }
+        ]
+    }
+
+}
